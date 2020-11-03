@@ -3,9 +3,13 @@
  Modules of the Project:
  
 ➢ Admin module
+
 ➢ Login module
+
 ➢ Car rental module
+
 ➢ Hotel module
+
 ➢ Contact desk module
 
 Login module:
@@ -33,23 +37,28 @@ This is a an end user’s help desk to clear their queries and solve the issues 
 PROBLEM & SOLUTION:
 Existing System:
 
-R&D cabs is an innovative thought to simplify the Transportation problems of
-Employees of an organization. In the present System, Organization do maintain a person for
-the allocating and proper functioning of transportation .The Person appointed needs to look
-after the assigning and movement of cabs. Authorised person maintains the transportation
-details in papers, which is a tedious task if any updation or changes need to be done.
+R&D cabs is an innovative thought to simplify the Transportation problems of Employees of an organization. In the present System, Organization do maintain a person for
+the allocating and proper functioning of transportation .The Person appointed needs to look after the assigning and movement of cabs. Authorised person maintains the transportation details in papers, which is a tedious task if any updation or changes need to be done.
+
 ➢ Details are stored in Papers.
+
 ➢ Maintenance is a huge problem.
+
 ➢ Updation, changes in details is a tedious task.
+
 ➢ Performance is not achieved up to the requirements.
+
 Proposed System :
-In the Previous System, Details are Stored Manually in papers to share
-the details between employees was a Financial drawback. Updations in the details is a tedious
-task.
-But a new system was proposed to overcome the above drawbacks.
+
+In the Previous System, Details are Stored Manually in papers to share the details between employees was a Financial drawback. Updations in the details is a tedious
+task. But a new system was proposed to overcome the above drawbacks. 
+
 Functionalities and advantages of proposed system are:
+
 ➢ Data is Centralized which has overcome the Sharing problem in previous system.
-➢ As data is Maintained electronically, it’s easy for a person to update the details, which has
-overcome the tedious updation in previous system.
+
+➢ As data is Maintained electronically, it’s easy for a person to update the details, which has overcome the tedious updation in previous system.
+
 ➢ Maintenance is easy and performance is good.
+
 ➢ Mainly the system has automated the Transportation Process.
